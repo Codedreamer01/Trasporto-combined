@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005183747253",
+    "project_id": "trasporto-7c88d",
+    "storage_bucket": "trasporto-7c88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005183747253:android:64ba36205b9a4b16402afc",
+        "android_client_info": {
+          "package_name": "com.example.sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005183747253-3ufaubf67f15u4732oanjtni410vu3o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbcVwEDSgdzMuLknWCwp6KpTZCzTur0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005183747253-3ufaubf67f15u4732oanjtni410vu3o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
